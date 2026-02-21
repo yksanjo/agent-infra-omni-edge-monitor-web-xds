@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-omni-edge-monitor-web-xds",
+  "version": "1.0.0",
+  "description": "Serverless compute platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "omni-edge-monitor-web-xds"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-omni-edge-monitor-web-xds.git"
+  }
+}
